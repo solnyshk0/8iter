@@ -1,0 +1,17 @@
+﻿<Window x:Class="MyDB.CustomersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyDB"
+        mc:Ignorable="d"
+        Title="CustomersWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgCustomers" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,0,10,115"/>
+        <Button x:Name="btClose" Content="Закрыть" HorizontalAlignment="Left" Margin="671,357,0,0" VerticalAlignment="Top" Height="36" Width="83" Click="btClose_Click" FontSize="18" />
+        <Button x:Name="btAdd" Content="Добавить" HorizontalAlignment="Left" Margin="27,357,0,0" VerticalAlignment="Top" FontSize="18" Height="32" Width="88" Click="btAdd_Click"/>
+        <Button x:Name="btDelete" Content="Удалить" HorizontalAlignment="Left" Margin="160,357,0,0" VerticalAlignment="Top" FontSize="18" Height="32" Width="76" Click="btDelete_Click"/>
+        <Button x:Name="btUpdate" Content="Изменить" HorizontalAlignment="Left" Margin="302,361,0,0" VerticalAlignment="Top" FontSize="18" Click="btUpdate_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.BuisenessLayer.deps.json
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.BuisenessLayer.dll
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.BuisenessLayer.pdb
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.Dto.dll
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.Dto.pdb
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.dll
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\refint\MyDB.BuisenessLayer.dll
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\MyDB.BuisenessLayer.pdb
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\obj\Debug\net6.0\ref\MyDB.BuisenessLayer.dll
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.DataAccess.dll
+C:\Users\ASUS\source\repos\MyDB.BuisenessLayer\bin\Debug\net6.0\MyDB.DataAccess.pdb

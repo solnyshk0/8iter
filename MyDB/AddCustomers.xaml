@@ -1,0 +1,30 @@
+﻿<Window x:Class="MyDB.AddCustomers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyDB"
+        mc:Ignorable="d"
+        Title="AddCustomers" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="71*"/>
+            <ColumnDefinition Width="129*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="45*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Контактное лицо" HorizontalAlignment="Left" Margin="82,0,0,0" VerticalAlignment="Center" Height="47" Width="158" FontSize="18"/>
+        <Label Content="Телефон" HorizontalAlignment="Left" VerticalAlignment="Center" Height="47" Width="108" Grid.Row="1" Margin="82,0,0,0" FontSize="18"/>
+        <Label Content="Адрес" HorizontalAlignment="Left" VerticalAlignment="Top" Height="47" Width="108" Grid.Row="2" Margin="82,36,0,0" FontSize="18"/>
+        <TextBox x:Name="tbContactPerson" Grid.Column="1" HorizontalAlignment="Left" Margin="190,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbPhone" Grid.Column="1" HorizontalAlignment="Left" Margin="190,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Grid.Row="1"/>
+        <TextBox x:Name="tbAddress" Grid.Column="1" HorizontalAlignment="Left" Margin="190,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Grid.Row="2"/>
+        <Button x:Name="btSave" Content="Сохранить" HorizontalAlignment="Left" Margin="120,54,0,0" Grid.Row="3" VerticalAlignment="Top" FontSize="18" Click="btSave_Click"/>
+        <Button Grid.Column="1" Content="Закрыть" HorizontalAlignment="Left" Margin="151,54,0,0" Grid.Row="3" VerticalAlignment="Top" FontSize="18" Height="37" Width="87" Click="Button_Click"/>
+
+    </Grid>
+</Window>

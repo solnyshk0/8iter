@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\MyDB.Dto\bin\Debug\net6.0\MyDB.Dto.deps.json
+C:\Users\ASUS\source\repos\MyDB.Dto\bin\Debug\net6.0\MyDB.Dto.dll
+C:\Users\ASUS\source\repos\MyDB.Dto\bin\Debug\net6.0\MyDB.Dto.pdb
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.dll
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\refint\MyDB.Dto.dll
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\MyDB.Dto.pdb
+C:\Users\ASUS\source\repos\MyDB.Dto\obj\Debug\net6.0\ref\MyDB.Dto.dll

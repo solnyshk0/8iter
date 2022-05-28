@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\MyDM.DataAccess\bin\Debug\net6.0\MyDB.DataAccess.deps.json
+C:\Users\ASUS\source\repos\MyDM.DataAccess\bin\Debug\net6.0\MyDB.DataAccess.dll
+C:\Users\ASUS\source\repos\MyDM.DataAccess\bin\Debug\net6.0\MyDB.DataAccess.pdb
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.dll
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\refint\MyDB.DataAccess.dll
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\MyDB.DataAccess.pdb
+C:\Users\ASUS\source\repos\MyDM.DataAccess\obj\Debug\net6.0\ref\MyDB.DataAccess.dll
